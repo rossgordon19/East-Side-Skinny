@@ -1,3 +1,16 @@
-h1, h3 {
-    font-family: 'Mr Dafoe', cursive;;
+h1 {
+    font-family: 'Mansalva';
+    color: #0071cf;
+}
+
+h3 {
+    font-family: 'Mansalva';
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#connect {
+    color: black;
 }
