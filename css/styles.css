@@ -14,3 +14,12 @@ p {
 #connect {
     color: black;
 }
+
+p {
+    font-family: 'Mansalva';
+    font-size: 130%;
+}
+
+#copyright {
+    font-family: 'Mansalva';
+}
