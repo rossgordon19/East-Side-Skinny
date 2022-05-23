@@ -11,6 +11,10 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
+#slides {
+    color: black;
+}
+
 #connect {
     color: black;
 }
@@ -22,4 +26,14 @@ p {
 
 #copyright {
     font-family: 'Mansalva';
+}
+
+#carousel-1, #carousel-2 {
+    display: block;
+    padding: 50px;
+}
+
+#studio {
+    display: block;
+    padding: 50px;
 }
