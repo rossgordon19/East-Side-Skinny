@@ -35,5 +35,12 @@ p {
 
 #studio {
     display: block;
-    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#flextopia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
