@@ -1,7 +1,6 @@
 h1 {
     font-family: 'Mansalva';
-    /* color: #0071cf; */
-    color: black;
+    color: #0071cf;
 }
 
 h3 {
@@ -52,10 +51,6 @@ p {
     color: black;
 }
 
-#socials {
-    margin-top: 85px;
-}
+.header {
 
-#header-img {
-    margin-top: 60px;
 }
