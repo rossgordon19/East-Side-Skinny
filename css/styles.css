@@ -1,6 +1,7 @@
 h1 {
     font-family: 'Mansalva';
-    color: #0071cf;
+    /* color: #0071cf; */
+    color: black;
 }
 
 h3 {
@@ -50,3 +51,4 @@ p {
     font-family: 'Mansalva';
     color: black;
 }
+
