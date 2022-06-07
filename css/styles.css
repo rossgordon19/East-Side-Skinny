@@ -1,31 +1,29 @@
+.masthead {
+    background-size: cover;
+    min-height: 100vh;
+    object-fit: cover;
+}
+
 h1 {
-    font-family: 'Mansalva';
+    font-family: 'Permanent Marker';
     color: #0071cf;
 }
 
 h3 {
     font-family: 'Mansalva';
-}
+    font-family: 'Permanent Marker';}   
 
 p {
     font-family: 'Montserrat', sans-serif;
 }
 
-#slides {
-    color: black;
-}
-
 #connect {
     color: black;
+    
 }
 
 p {
-    font-family: 'Mansalva';
-    font-size: 130%;
-}
-
-#copyright {
-    font-family: 'Mansalva';
+    font-family: 'Inconsolata', monospace;
 }
 
 #carousel-1, #carousel-2 {
@@ -47,10 +45,10 @@ p {
 
 #email h1 {
     margin-top: 60px;
-    font-family: 'Mansalva';
+    font-family: 'Inconsolata', monospace;
     color: black;
 }
 
-.header {
-
+#copyright {
+    font-family: 'Inconsolata', monospace;
 }
