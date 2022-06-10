@@ -1,3 +1,15 @@
+.masthead {
+    background-size: cover;
+    min-height: 60vh;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .masthead {
+        min-height: 30vh;
+    }
+}
+
 h1 {
     font-family: 'Permanent Marker';
     color: #0071cf;
@@ -5,7 +17,9 @@ h1 {
 
 h3 {
     font-family: 'Mansalva';
-    font-family: 'Permanent Marker';}   
+    font-family: 'Permanent Marker';  
+    color: #0071cf;
+}
 
 p {
     font-family: 'Montserrat', sans-serif;
@@ -45,4 +59,8 @@ p {
 
 #copyright {
     font-family: 'Inconsolata', monospace;
+}
+
+#gallery {
+    color: black;
 }
