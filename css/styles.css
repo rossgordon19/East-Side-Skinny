@@ -1,13 +1,22 @@
 .masthead {
-    background-size: cover;
-    min-height: 60vh;
+    background-size: contain;
+    background-repeat: no-repeat;
     position: relative;
 }
 
 @media (max-width: 768px) {
     .masthead {
         min-height: 30vh;
+        width: 100%;
+        height: 100%;
     }
+}
+
+.carousel-inner {
+    margin: auto;
+    height: 75%;
+    width: 75%;
+    bottom: 25px;
 }
 
 h1 {
