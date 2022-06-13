@@ -8,6 +8,7 @@
     .masthead {
         min-height: 30vh;
         margin: auto;
+        top: 30px;
     }
 }
 
