@@ -94,3 +94,8 @@ p {
     margin-top: 15px;
     margin-bottom: 15px;
   }
+
+  #gallery {
+    justify-content: center;
+    align-items: center;
+  }
