@@ -48,6 +48,11 @@ p {
     font-family: 'Inconsolata', monospace;
 }
 
+.about {
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
 #carousel-1, #carousel-2 {
     display: block;
     padding: 50px;
