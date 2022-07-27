@@ -113,15 +113,15 @@ p {
     padding: 10px;
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 400px) {
     #slides {
-        top: 3px;
+
     }
   }
 
   @media only screen and (max-width: 800px) {
     #slides {
-        top: -14px;
+
     }
 }
 
