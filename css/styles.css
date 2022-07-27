@@ -116,10 +116,3 @@ p {
     padding: 10px;
   }
 
-  @media only screen and (max-device-width: 480px) {    
-    #carousel-1, #carousel-2 {
-        display: block;
-        padding: 37px;
-        margin-top: 22px;
-    }
-}
