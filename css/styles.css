@@ -62,10 +62,9 @@ p {
     font-size: 20px;
 }
 
-#carousel-1, #carousel-2 {
-    display: block;
-    padding: 37px;
-    margin-top: 30px;
+#slides {
+    padding: 45px;
+    top: 15px;
 }
 
 #studio {
