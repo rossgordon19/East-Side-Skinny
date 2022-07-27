@@ -111,6 +111,7 @@ p {
   #gallery {
     justify-content: center;
     align-items: center;
+    padding: 10px;
   }
 
   @media only screen and (max-device-width: 480px) {    
