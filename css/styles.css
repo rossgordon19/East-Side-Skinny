@@ -23,8 +23,6 @@
     bottom: 38px;
     height: 80%;
     width: 80%;
-    height: 75%;
-    width: 75%;
 }
 
 
@@ -115,3 +113,18 @@ p {
     padding: 10px;
   }
 
+  @media only screen and (max-width: 600px) {
+    #slides {
+        top: 3px;
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    #slides {
+        top: -14px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    
+}
