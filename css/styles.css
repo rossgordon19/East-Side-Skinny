@@ -122,7 +122,7 @@ p {
   @media only screen and (max-device-width: 480px) {    
     #carousel-1, #carousel-2 {
         display: block;
-        padding: 30px;
-        margin-top: 10px;
+        padding: 37px;
+        margin-top: 22px;
     }
 }
