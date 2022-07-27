@@ -129,3 +129,19 @@ p {
         margin-top: 22px;
     }
 }
+
+@media only screen and (max-device-width: 800px) {    
+    #carousel-1, #carousel-2, .carouse.-active {
+        display: block;
+        padding: 30px;
+        margin-top: 7px;
+    }
+}
+
+@media only screen and (max-device-width: 900) {    
+    #carousel-1, #carousel-2, .carousel-inner, .carouse.-active {
+        display: block;
+        padding: 30px;
+        margin-top: 90px;
+    }
+}
