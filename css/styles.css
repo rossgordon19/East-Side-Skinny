@@ -121,7 +121,5 @@ p {
 }
 
 @media only screen and (max-width: 1300) {
-    .carousel {
-        top: 40px;
-    }
+
 }
