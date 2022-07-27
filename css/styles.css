@@ -139,7 +139,7 @@ p {
 }
 
 @media only screen and (max-device-width: 900) {    
-    #carousel-1, #carousel-2, .carousel-inner, .carouse.-active {
+    #carousel-1, #carousel-2 {
         display: block;
         padding: 30px;
         margin-top: 90px;
