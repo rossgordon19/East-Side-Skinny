@@ -61,8 +61,10 @@ p {
 }
 
 #slides {
-    padding: 45px;
-    top: 15px;
+    /* padding: 45px;
+    top: 15px; */
+    padding: 75px;
+    top: -38px;
 }
 
 #studio {
@@ -113,10 +115,10 @@ p {
     padding: 10px;
   }
 
-  @media only screen and (max-width: 1200px) {
+  /* @media only screen and (max-width: 800px) {
     #slides {
         padding: 75px;
         top: -38px;
     }
-}
+} */
 
